@@ -36,7 +36,6 @@ Este repositório apresenta uma solução prática de reconhecimento de texto (O
 ### 📌 Imagem 1 - Placa de Loja
 Reconhecido:
 ```
-CAFETERIA DO BAIRRO
 Aberto todos os dias
 Seg a Sex: 7h - 20h
 Sáb e Dom: 8h - 18h
@@ -46,10 +45,12 @@ Promoção: Café + Pão de Queijo por R$5,00
 ### 📘 Imagem 2 - Capa de Livro
 Reconhecido:
 ```
-Título: Aprendizado de Máquina com Python
-Autor: João Silva
-Editora: Ciência Moderna
-Resumo: Guia prático para quem deseja aprender técnicas modernas de machine learning com exemplos em Python.
+série cientista de dados
+python
+gruia prático
+do básico ao avançado
+rafael fvc santos
+segunda edição
 ```
 ---
 
