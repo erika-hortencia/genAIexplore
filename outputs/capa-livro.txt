@@ -1,0 +1,4 @@
+Título: Aprendizado de Máquina com Python
+Autor: João Silva
+Editora: Ciência Moderna
+Resumo: Guia prático para quem deseja aprender técnicas modernas de machine learning com exemplos em Python.
